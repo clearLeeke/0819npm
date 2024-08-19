@@ -1,0 +1,25 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "一个新项目的开始",
+  "main": "index.js",
+  "scripts": {
+    "less": "lessc css/index.less css/index.min.css -x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clearLeeke/0819npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clearLeeke/0819npm/issues"
+  },
+  "homepage": "https://github.com/clearLeeke/0819npm#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1",
+    "less": "^4.2.0"
+  }
+}
